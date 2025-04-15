@@ -16,10 +16,7 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "incremental": true,
-    "baseUrl": "./",
-    "paths": {
-      "@/*": ["src/*"]
-    }
+    "baseUrl": "src"   // ✅ Set to "src"
   },
   "include": ["src", "**/*.ts", "**/*.tsx"]
 }

@@ -29,7 +29,7 @@ DeFi MVP is a decentralized finance platform that enables users to **stake, swap
 Clone the repository:
 
 ```bash
-git clone https://github.com/cryptodev-org/screening-demo.git
+git https://github.com/Arnoldmn/screening-demo.git
 cd screening-demo
 npm install
 ```
